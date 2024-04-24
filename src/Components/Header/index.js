@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 import logo from '../../Assets/images/video-player.png';
 const HeaderComponent = ()=>{
     const navData = [
-        {name:'Home', link:'/'},
+        {name:'Home', link:'/movie-website'},
         {name:'Movies', link:'/movies'},
         {name:'Tv Series', link:'/series'},
         {name:'Popular',link:'/popular'},
